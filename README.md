@@ -1,4 +1,4 @@
-# Todo List CLI (Python)
+# Todo List (Python)
 
 A simple Todo List program that allows users to add, view, and remove tasks.
 
