@@ -15,9 +15,7 @@ This is a simple Data Science project built using Python to analyze and visualiz
 ## Tech Used
 
 * Python
-* NumPy
-* Pandas
-* Matplotlib
+* Modules : NumPy, Pandas, Matplotlib, Seaborn
 
 ## Output
 
@@ -28,13 +26,13 @@ This is a simple Data Science project built using Python to analyze and visualiz
 ## How to Run
 
 1. Install required libraries:
-   pip install numpy pandas matplotlib
+   pip install numpy pandas matplotlib seaborn
    
-3. Run the program:
+2. Run the program:
    python filename.py
 
 ## Future Improvements
 
-* Add Seaborn for better visualization
-* Add data input from a CSV file
-* Create an interactive dashboard
+* Add CSV file input support
+* Build an interactive dashboard using Streamlit
+* Add filtering and sorting options
