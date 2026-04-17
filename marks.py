@@ -12,22 +12,22 @@ for i in range(n):
     std.append(name)
     marks.append(mark)
 
-marks_array = np.array(marks)
+m_array = np.array(marks)
 data = pd.DataFrame({
     "Student": std,
-    "Marks": marks_array
+    "Marks": m_array
 })
 
 print("\nStudent Data:\n")
 print(data)
 
 print("\nStatistics:")
-print("Average Marks:", round(np.mean(marks_array), 2))
-print("Highest Marks:", np.max(marks_array))
-print("Lowest Marks:", np.min(marks_array))
+print("Average Marks:", round(np.mean(m_array), 2))
+print("Highest Marks:", np.max(m_array))
+print("Lowest Marks:", np.min(m_array))
 
 plt.figure(figsize=(8,5))
-plt.bar(std, marks_array, width=0.6, color='skyblue')
+plt.bar(std, m_array, width=0.6, color='skyblue')
 plt.title("Student Marks Analysis")
 plt.xlabel("Students")
 plt.ylabel("Marks")
