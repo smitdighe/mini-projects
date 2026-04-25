@@ -33,5 +33,3 @@ Each project is stored in its own folder with full commit history preserved.
 
 ---
 
-## 🚀 Author
-- Smit
