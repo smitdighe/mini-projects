@@ -1,4 +1,4 @@
-# 🚀 Mini Python Projects
+# Mini Python Projects
 
 A collection of beginner-friendly Python projects showcasing logic building and problem-solving.
 
