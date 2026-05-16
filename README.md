@@ -6,19 +6,19 @@ A collection of beginner-friendly Python projects showcasing logic building and 
 
 ## 📂 Projects
 
-### 🔐 Password Generator
+### Password Generator
 A simple Python CLI password generator using random and string modules.
 
-### 🎯 Number Guessing Game
+### Number Guessing Game
 A Python game where users guess a random number with hints and attempt tracking.
 
-### 🎲 Dice Rolling Simulator
+### Dice Rolling Simulator
 CLI-based dice rolling simulator built in Python using random number generation.
 
-### ✅ To-Do List
+### To-Do List
 CLI-based todo list program built in Python for managing daily tasks.
 
-### 📊 Marks Analyzer
+### Marks Analyzer
 A Python-based project to analyze and visualize student marks using NumPy, Pandas, Matplotlib and Seaborn.
 
 ---
